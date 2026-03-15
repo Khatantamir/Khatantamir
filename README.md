@@ -1,68 +1,123 @@
 # Hi, I'm Khatantamir
 
-Data Science and Machine Learning enthusiast building practical ML systems and data projects.
+I am a **Data Science and Machine Learning enthusiast** focused on building practical machine learning systems and data-driven applications.
 
-I focus on:
+My work focuses on solving real-world business problems using data, including customer analytics, recommendation systems, fraud detection, and forecasting.
 
-* Machine learning systems
-* predictive analytics
-* recommendation systems
-* time series forecasting
-* data-driven business solutions
+---
 
-## Data Science Portfolio Projects
+# Data Science Portfolio Projects
 
-### Customer Churn Prediction ML System
+Below are several machine learning projects demonstrating model development, deployment, and real-world applications.
 
-Machine learning model that predicts customer churn using classification techniques.
+---
 
-Key skills:
+## Movie Recommendation System
 
-* data preprocessing
-* feature engineering
-* model training
-* API deployment
+Content-based recommendation system that suggests similar movies using collaborative filtering and similarity analysis.
 
-### Movie Recommendation System
+Key features:
 
-Content-based recommendation system that suggests movies using similarity algorithms.
+- Movie similarity modeling
+- Correlation-based recommendations
+- Interactive Streamlit web application
 
-Key skills:
+Live Demo:
 
-* recommendation algorithms
-* cosine similarity
-* user preference modeling
+https://movie-recommendation-khatantamir.streamlit.app
 
-### Credit Card Fraud Detection ML System
+Repository:
+
+https://github.com/Khatantamir/movie-recommendation-system-khatantamir
+
+---
+
+## Customer Churn Prediction ML System
+
+Machine learning system that predicts whether a telecommunications customer is likely to churn.
+
+Key features:
+
+- Logistic Regression model
+- Feature engineering and preprocessing
+- FastAPI prediction API
+- Streamlit interactive interface
+
+Live Demo:
+
+https://customer-churn-khatantamir.streamlit.app
+
+Repository:
+
+https://github.com/Khatantamir/customer-churn-ml-khatantamir
+
+---
+
+## Credit Card Fraud Detection
 
 Machine learning model that detects fraudulent credit card transactions.
 
-Key skills:
+Key features:
 
-* anomaly detection
-* classification models
-* model evaluation
+- Fraud detection using classification models
+- Highly imbalanced dataset handling
+- Feature analysis and anomaly detection
 
-### Sales Forecasting Time Series ML System
+Repository:
 
-Time series forecasting model that predicts future retail sales using historical data.
+https://github.com/Khatantamir/credit-card-fraud-detection-ml-khatantamir
 
-Key skills:
+---
 
-* time series analysis
-* lag feature engineering
-* forecasting models
-* FastAPI deployment
+## Sales Forecasting Time Series ML System
 
-## Technologies
+Time series forecasting model that predicts future sales using historical retail data.
 
-* Python
-* pandas
-* scikit-learn
-* matplotlib
-* FastAPI
-* joblib
+Key features:
 
-## Career Goal
+- Time series analysis
+- Trend and seasonality modeling
+- Data visualization and forecasting
 
-My goal is to work as a Data Scientist / Machine Learning Engineer and build intelligent systems that solve real-world problems.
+Repository:
+
+https://github.com/Khatantamir/sales-forecasting-timeseries-ml-khatantamir
+
+---
+
+# Technologies
+
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- FastAPI
+- Streamlit
+- SQL
+- Machine Learning
+- Data Analysis
+
+---
+
+# Career Goal
+
+My goal is to work as a **Data Scientist / Machine Learning Engineer**, building intelligent systems that help organizations make better data-driven decisions.
+
+I am particularly interested in:
+
+- Machine learning systems
+- recommendation systems
+- predictive analytics
+- applied AI in real-world business environments
+
+---
+
+# Contact
+
+GitHub:  
+https://github.com/Khatantamir
+
+LinkedIn:  
+(Add your LinkedIn link here)
+
+---
